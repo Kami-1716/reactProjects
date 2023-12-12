@@ -10,7 +10,7 @@ function App() {
 
   const currencyInfo = useCurrencyInfo(from);
 
-  const options = Object.keys(useCurrencyInfo);
+  const options = Object.keys(currencyInfo);
  
   
   
